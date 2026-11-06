@@ -1,0 +1,81 @@
+[
+{
+  "id": "1",
+  "title": "Campfire Night Fellowship",
+  "excerpt": "Join us for an unforgettable evening around the campfire filled with worship, testimonies, games, and meaningful connections under the stars.",
+  "date": "May 20, 2026",
+  "publishedDate": "2026-05-20T10:00:00Z",
+  "category": "Fellowship",
+  "author": "Pr Isaac Ling",
+  "authorRole": "Senior Pastor",
+  "authorImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop",
+  "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1779525298/campfire_ibvnb7.jpg",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">There’s something special about gathering around a campfire. The warmth, the laughter, and the shared stories create moments that stay in our hearts forever. Our Campfire Night Fellowship is more than just an event — it’s an opportunity to strengthen friendships, grow in faith, and enjoy God’s creation together.</p><h3 style=\"font-size: 1.8rem; font-weight: 800; margin: 3rem 0 1.5rem 0;\">A Night to Remember</h3><p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">The evening will be filled with acoustic worship, inspiring testimonies, fun games, marshmallow roasting, and heartfelt conversations under the stars. Whether you’re coming with friends or meeting new people for the first time, everyone is welcome around the fire.</p><blockquote style=\"border-left: 4px solid var(--accent); padding-left: 1.5rem; margin: 2.5rem 0; font-size: 1.4rem; font-style: italic; color: #555;\">\"Some of the best memories are made sitting around a campfire with people who inspire you.\"</blockquote><p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">Bring your jackets, your favorite snacks, and an open heart as we spend time together building community and creating lasting memories. Let’s gather around the fire and celebrate friendship, faith, and fellowship.</p>"
+},
+  {
+  "id": "2",
+  "title": "Captured Moments Together",
+  "excerpt": "A special collection of group photos capturing laughter, friendship, and unforgettable memories shared together as a community.",
+  "date": "May 15, 2026",
+  "publishedDate": "2026-05-15T09:30:00Z",
+  "category": "Community",
+  "author": "Church Administration",
+  "authorRole": "Media Team",
+  "authorImage": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?q=80&w=1974&auto=format&fit=crop",
+  "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1779525299/group_photo_qq7kqv.jpg",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">Every group photo tells a story of friendship, unity, and shared experiences. These moments captured together remind us of the joy found in community and the memories created through every gathering, event, and celebration.</p><h3 style=\"font-size: 1.8rem; font-weight: 800; margin: 3rem 0 1.5rem 0;\">Memories That Last</h3><p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">From candid smiles to joyful laughter, each photo reflects the bonds we continue to build as a family. Whether it’s during fellowship nights, outdoor activities, or special celebrations, these snapshots preserve moments we will cherish for years to come.</p><blockquote style=\"border-left: 4px solid var(--accent); padding-left: 1.5rem; margin: 2.5rem 0; font-size: 1.4rem; font-style: italic; color: #555;\">\"Great moments are even better when shared together.\"</blockquote><p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">As we look back at these group photos, we celebrate not just the events themselves, but the people who made them meaningful. Here’s to more laughter, stronger friendships, and many more memories together.</p>"
+},
+  {
+  "id": "3",
+  "title": "The Power of Prayer Altars",
+  "excerpt": "How establishing personal and corporate prayer altars transforms our daily walk with Christ and fuels our spiritual growth.",
+  "date": "May 10, 2026",
+  "publishedDate": "2026-05-10T08:00:00Z",
+  "category": "Spiritual Growth",
+  "author": "Prayer Ministry",
+  "authorRole": "Ministry Team",
+  "authorImage": "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=1887&auto=format&fit=crop",
+  "image": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?q=80&w=1770&auto=format&fit=crop",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">Building a prayer altar is building a place for God's presence in your daily life. It is where heaven meets earth.</p>"
+},
+  {
+  "id": "4",
+  "title": "A Night of Worship at SMCC",
+  "excerpt": "Reflecting on last week's powerful worship session, bringing the community together in one voice.",
+  "date": "May 02, 2026",
+  "publishedDate": "2026-05-02T19:00:00Z",
+  "category": "Events",
+  "author": "Worship Team",
+  "authorRole": "Ministry Team",
+  "authorImage": "https://images.unsplash.com/photo-1516280440502-3928e02613d6?q=80&w=1887&auto=format&fit=crop",
+  "image": "https://images.unsplash.com/photo-1493225457124-a1a2a5f22e83?q=80&w=2070&auto=format&fit=crop",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">Our night of worship was a beautiful time of coming together and lifting up the name of Jesus with one voice.</p>"
+},
+  {
+  "id": "5",
+  "title": "Youth Camp 2026: Unshakable",
+  "excerpt": "An inside look at the upcoming summer youth camp and the powerful testimonies from last year's attendees.",
+  "date": "April 28, 2026",
+  "publishedDate": "2026-04-28T14:00:00Z",
+  "category": "Youth",
+  "author": "Youth Ministry",
+  "authorRole": "Ministry Team",
+  "authorImage": "https://images.unsplash.com/photo-1513258496099-48168024aec0?q=80&w=1770&auto=format&fit=crop",
+  "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?q=80&w=2070&auto=format&fit=crop",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">We are preparing our youth to be unshakable in their faith. Camp 2026 will feature dynamic speakers and powerful worship.</p>"
+},
+  {
+  "id": "6",
+  "title": "Finding Community in Cell Groups",
+  "excerpt": "Why joining a cell group is the best step you can take for your spiritual journey this year.",
+  "date": "April 15, 2026",
+  "publishedDate": "2026-04-15T11:00:00Z",
+  "category": "Cells",
+  "author": "Cells Ministry",
+  "authorRole": "Ministry Team",
+  "authorImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1932&auto=format&fit=crop",
+  "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1932&auto=format&fit=crop",
+  "content": "<p style=\"margin-bottom: 1.5rem; font-size: 1.15rem; line-height: 1.8;\">Cell groups are the lifeblood of our church. It is where you are known, loved, and challenged to grow.</p>"
+}
+  
+]
