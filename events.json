@@ -1,72 +1,72 @@
 [
   {
-    id: "3",
-    title: "Chess Tournament",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864951/Chess_Tournament_n8sfdy.jpg",
-    regDate: "",
-    regDeadline: "2026-10-15 5PM",
-    eventDate: "2026-10-17 3PM",
-    endDate: "",
-    category: "Sports"
+    "id": "3",
+    "title": "Chess Tournament",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864951/Chess_Tournament_n8sfdy.jpg",
+    "regDate": "",
+    "regDeadline": "2026-10-15 5PM",
+    "eventDate": "2026-10-17 3PM",
+    "endDate": "",
+    "category": "Sports"
   },
   {
-    id: "4",
-    title: "Basketball Tournament",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Basketball_Tournament_ooerha.jpg",
-    regDate: "",
-    regDeadline: "",
-    eventDate: "2026-05-17 3PM",
-    endDate: "",
-    category: "Sports"
+    "id": "4",
+    "title": "Basketball Tournament",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Basketball_Tournament_ooerha.jpg",
+    "regDate": "",
+    "regDeadline": "",
+    "eventDate": "2026-05-17 3PM",
+    "endDate": "",
+    "category": "Sports"
   },
   {
-    id: "5",
-    title: "Table Tennis Tournament",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Table_Tennis_Tournament_bcsyx9.jpg",
-    regDate: "",
-    regDeadline: "2026-10-22 5PM",
-    eventDate: "2026-10-24 3PM",
-    endDate: "",
-    category: "Sports"
+    "id": "5",
+    "title": "Table Tennis Tournament",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Table_Tennis_Tournament_bcsyx9.jpg",
+    "regDate": "",
+    "regDeadline": "2026-10-22 5PM",
+    "eventDate": "2026-10-24 3PM",
+    "endDate": "",
+    "category": "Sports"
   },
   {
-    id: "6",
-    title: "Bible Study Night",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Bible_Study_Night_uivv9n.jpg",
-    regDate: "",
-    regDeadline: "",
-    eventDate: "2026-10-21 7PM",
-    endDate: "",
-    category: "Weekly Activities"
+    "id": "6",
+    "title": "Bible Study Night",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Bible_Study_Night_uivv9n.jpg",
+    "regDate": "",
+    "regDeadline": "",
+    "eventDate": "2026-10-21 7PM",
+    "endDate": "",
+    "category": "Weekly Activities"
   },
   {
-    id: "7",
-    title: "Worship Jam",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Worship_Jam_eqjbkk.jpg",
-    regDate: "",
-    regDeadline: "",
-    eventDate: "2026-10-25 3PM",
-    endDate: "",
-    category: "Monthly Activities"
+    "id": "7",
+    "title": "Worship Jam",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Worship_Jam_eqjbkk.jpg",
+    "regDate": "",
+    "regDeadline": "",
+    "eventDate": "2026-10-25 3PM",
+    "endDate": "",
+    "category": "Monthly Activities"
   },
   {
-    id: "8",
-    title: "Worship Dance",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Worship_Dance_i55xvs.jpg",
-    regDate: "",
-    regDeadline: "",
-    eventDate: "2026-10-17 3PM",
-    endDate: "",
-    category: "Monthly Activities"
+    "id": "8",
+    "title": "Worship Dance",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Worship_Dance_i55xvs.jpg",
+    "regDate": "",
+    "regDeadline": "",
+    "eventDate": "2026-10-17 3PM",
+    "endDate": "",
+    "category": "Monthly Activities"
   },
   {
-    id: "9",
-    title: "Seasonal Overnight Camp",
-    image: "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Seasonal_Overnight_Camp_sekvo8.jpg",
-    regDate: "",
-    regDeadline: "",
-    eventDate: "2026-10-29 3PM",
-    endDate: "2026-10-30 8PM",
-    category: "Camps"
+    "id": "9",
+    "title": "Seasonal Overnight Camp",
+    "image": "https://res.cloudinary.com/dkp1gokti/image/upload/v1793864952/Seasonal_Overnight_Camp_sekvo8.jpg",
+    "regDate": "",
+    "regDeadline": "",
+    "eventDate": "2026-10-29 3PM",
+    "endDate": "2026-10-30 8PM",
+    "category": "Camps"
   }
 ]
